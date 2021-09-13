@@ -1,1 +1,1 @@
-Get Study Materials for Elenctrical Engineering third semester.
+Get Study Materials for Electrical Engineering third semester.
