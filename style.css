@@ -249,7 +249,7 @@ footer
 	animation: target-fade 10s;
 }
 @keyframes target-fade {
-	from { background-color: red; }
+	from { background-color: #ff7070; }
 	to { background-color: transparent; }
 }
 /* temporarily highlight on jumping ends */
