@@ -242,3 +242,14 @@ footer
 {
     color: #ff7070;
 }
+
+/* temporarily highlight on jumping start */
+@import "compass/css3";
+#n_4:target {
+	animation: target-fade 10s;
+}
+@keyframes target-fade {
+	from { background-color: red; }
+	to { background-color: transparent; }
+}
+/* temporarily highlight on jumping ends */
