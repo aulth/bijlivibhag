@@ -246,7 +246,7 @@ footer
 /* temporarily highlight on jumping start */
 @import "compass/css3";
 #n_4:target,#n_3:target, #n_2:target {
-	animation: target-fade 10s;
+	animation: target-fade 15s;
 }
 @keyframes target-fade {
 	from { background-color: #ff7070; }
