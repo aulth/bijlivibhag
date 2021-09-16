@@ -137,6 +137,7 @@ body
 .notification ol li 
 {
     margin: 5px;
+	cursor:context-menu;
 }
 #quick_search
 {
