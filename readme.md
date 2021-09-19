@@ -1,2 +1,5 @@
 ![Header](https://i.ibb.co/tzkgYGL/logo.png "Header")
-# Hello, Engineers! <img src="https://c.tenor.com/DDePA9puJ18AAAAC/love-wide.gif" style="width:90px;margin-top:20px">
+# Hello, Engineers!
+<p> This repository is made to available Study Material for Electrical Engineering. This is especially for Jamia Millia Islamia Students.</p>
+
+<p> Visit Bijli Vibhag (https://aulth.github.io/bijlivibhag)</p>
