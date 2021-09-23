@@ -252,7 +252,7 @@ footer
 
 /* temporarily highlight on jumping start */
 @import "compass/css3";
-#LTspice:target,#ecs:target,#n_4:target,#n_3:target, #n_2:target,#n_5:target,#n_6:target,#n_7:target,#n_8:target,#n_9:target,#n_10:target,#n_11:target,#n_12:target {
+#LTspice:target, #ecs:target ,#n_4:target,#n_3:target, #n_2:target,#n_5:target,#n_6:target,#n_7:target,#n_8:target,#n_9:target,#n_10:target,#n_11:target,#n_12:target {
 	animation: target-fade 15s;
 }
 @keyframes target-fade {
